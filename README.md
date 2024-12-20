@@ -1,6 +1,3 @@
-Here’s an updated README file reflecting the CRISP-DM methodology and deployment details:
-
-
 ## Customer Churn Prediction
 
 ### Project Overview
